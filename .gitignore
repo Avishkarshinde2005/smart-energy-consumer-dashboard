@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# SQLite database locks / temp
+*.db-journal
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Reports outputs (optional ignore)
+# reports/*.pdf
+
+.gitconfig
+*.zip

@@ -1,0 +1,7 @@
+rank,bin_id,location_name,waste_type,fill_level,fill_category,overflow_status,priority_score
+1,BIN-004,Hostel Quadrangle A - Bin #04,General,100.0,Critical,True,88.0
+2,BIN-025,Library & Study Center - Bin #25,Recyclable,92.7,Critical,True,84.35
+3,BIN-018,Central Cafeteria - Bin #18,Organic,90.6,Critical,True,83.3
+4,BIN-007,Sports Arena & Gym - Bin #07,Recyclable,81.0,High,False,43.5
+5,BIN-002,Engineering Complex - Bin #02,Recyclable,78.7,High,False,42.35
+6,BIN-009,Campus Food Court - Bin #09,Organic,76.5,High,False,41.25

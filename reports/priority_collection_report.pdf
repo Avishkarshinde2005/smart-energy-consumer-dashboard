@@ -1,0 +1,13 @@
+=== SMART WASTE MANAGEMENT & COLLECTION OPTIMIZATION ===
+Daily Collection Dispatch Manifest
+Generated: 2026-09-10 15:12:35
+Total Flagged Bins for Pickup: 6
+===========================================================================
+Rank  | Bin ID   | Location                  | Waste      | Fill%  | Status     | Score 
+---------------------------------------------------------------------------
+1     | BIN-004  | Hostel Quadrangle A - Bi  | General    | 100.0  | Critical   | 88.0  
+2     | BIN-025  | Library & Study Center -  | Recyclable | 92.7   | Critical   | 84.3  
+3     | BIN-018  | Central Cafeteria - Bin   | Organic    | 90.6   | Critical   | 83.3  
+4     | BIN-007  | Sports Arena & Gym - Bin  | Recyclable | 81.0   | High       | 43.5  
+5     | BIN-002  | Engineering Complex - Bi  | Recyclable | 78.7   | High       | 42.4  
+6     | BIN-009  | Campus Food Court - Bin   | Organic    | 76.5   | High       | 41.2  

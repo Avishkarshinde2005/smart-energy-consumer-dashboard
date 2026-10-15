@@ -1,0 +1,98 @@
+/* Custom Streamlit Dashboard Stylesheet */
+
+/* Metric Cards */
+.metric-card {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: 12px;
+    padding: 1.25rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    border-left: 5px solid #2e7d32;
+    margin-bottom: 1rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08);
+}
+
+.metric-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #6c757d;
+    margin-bottom: 0.25rem;
+}
+
+.metric-value {
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: #212529;
+}
+
+.metric-delta {
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-top: 0.25rem;
+}
+
+/* Priority Status Badges */
+.badge-critical {
+    background-color: #ffebee;
+    color: #c62828;
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 1px solid #ef9a9a;
+}
+
+.badge-high {
+    background-color: #fff3e0;
+    color: #e65100;
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 1px solid #ffcc80;
+}
+
+.badge-medium {
+    background-color: #e3f2fd;
+    color: #1565c0;
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 1px solid #90caf9;
+}
+
+.badge-low {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 1px solid #a5d6a7;
+}
+
+/* Alert Hotspots */
+.overflow-alert {
+    background-color: #d32f2f;
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.85; }
+    100% { opacity: 1; }
+}

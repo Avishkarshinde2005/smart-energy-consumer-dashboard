@@ -1,0 +1,428 @@
+bin_id,location_name,latitude,longitude,fill_level,fill_category,waste_type,collection_frequency,overflow_status,timestamp
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,45.1,Medium,General,Daily,False,2026-09-06 21:57:12
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,56.2,Medium,General,Daily,False,2026-09-07 02:44:53
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,69.9,High,General,Daily,False,2026-09-07 08:25:56
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,89.4,Critical,General,Daily,False,2026-09-07 14:11:09
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,6.4,Low,General,Daily,False,2026-09-07 18:50:38
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,14.5,Low,General,Daily,False,2026-09-07 22:59:07
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,33.4,Medium,General,Daily,False,2026-09-08 04:52:03
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,44.1,Medium,General,Daily,False,2026-09-08 10:08:03
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,62.9,High,General,Daily,False,2026-09-08 15:16:44
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,82.7,High,General,Daily,False,2026-09-08 20:51:59
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,96.5,Critical,General,Daily,True,2026-09-09 03:26:55
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,14.6,Low,General,Daily,False,2026-09-09 09:29:37
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,26.2,Medium,General,Daily,False,2026-09-09 13:49:42
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,45.2,Medium,General,Daily,False,2026-09-09 19:11:22
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,61.4,High,General,Daily,False,2026-09-10 01:49:02
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,73.7,High,General,Daily,False,2026-09-10 07:19:08
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,14.6,Low,General,Daily,False,2026-09-10 14:03:24
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,43.7,Medium,Recyclable,Daily,False,2026-09-06 21:29:50
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,67.8,High,Recyclable,Daily,False,2026-09-07 03:50:00
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,81.5,High,Recyclable,Daily,False,2026-09-07 07:50:06
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,100.0,Critical,Recyclable,Daily,True,2026-09-07 11:53:36
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,18.2,Low,Recyclable,Daily,False,2026-09-07 18:23:18
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,40.2,Medium,Recyclable,Daily,False,2026-09-08 01:13:45
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,57.0,Medium,Recyclable,Daily,False,2026-09-08 06:41:14
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,83.1,High,Recyclable,Daily,False,2026-09-08 12:58:08
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,9.0,Low,Recyclable,Daily,False,2026-09-08 17:21:15
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,33.2,Medium,Recyclable,Daily,False,2026-09-08 23:58:17
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,51.2,Medium,Recyclable,Daily,False,2026-09-09 04:36:25
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,71.8,High,Recyclable,Daily,False,2026-09-09 10:47:48
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,11.6,Low,Recyclable,Daily,False,2026-09-09 15:43:54
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,29.2,Medium,Recyclable,Daily,False,2026-09-09 21:17:04
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,45.5,Medium,Recyclable,Daily,False,2026-09-10 01:57:31
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,64.8,High,Recyclable,Daily,False,2026-09-10 07:43:25
+BIN-002,Engineering Complex - Bin #02,18.524957,73.854078,78.7,High,Recyclable,Daily,False,2026-09-10 12:23:03
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,58.4,Medium,Organic,Daily,False,2026-09-06 21:55:34
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,77.2,High,Organic,Daily,False,2026-09-07 02:08:19
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,19.0,Low,Organic,Daily,False,2026-09-07 08:08:44
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,47.2,Medium,Organic,Daily,False,2026-09-07 13:51:31
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,81.5,High,Organic,Daily,False,2026-09-07 20:12:45
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,11.4,Low,Organic,Daily,False,2026-09-08 00:47:02
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,40.3,Medium,Organic,Daily,False,2026-09-08 06:11:05
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,74.6,High,Organic,Daily,False,2026-09-08 12:12:18
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,17.9,Low,Organic,Daily,False,2026-09-08 16:30:01
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,38.8,Medium,Organic,Daily,False,2026-09-08 21:14:46
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,64.8,High,Organic,Daily,False,2026-09-09 02:35:31
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,86.6,Critical,Organic,Daily,False,2026-09-09 07:25:40
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,5.8,Low,Organic,Daily,False,2026-09-09 12:45:25
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,43.5,Medium,Organic,Daily,False,2026-09-09 19:45:18
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,81.6,High,Organic,Daily,False,2026-09-10 02:39:43
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,8.2,Low,Organic,Daily,False,2026-09-10 09:12:29
+BIN-003,Central Cafeteria - Bin #03,18.519027,73.860039,30.2,Medium,Organic,Daily,False,2026-09-10 14:24:40
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,63.3,High,General,Daily,False,2026-09-06 20:00:19
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,80.6,High,General,Daily,False,2026-09-07 01:22:14
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,15.8,Low,General,Daily,False,2026-09-07 08:14:33
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,29.0,Medium,General,Daily,False,2026-09-07 12:42:24
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,52.8,Medium,General,Daily,False,2026-09-07 19:36:46
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,73.9,High,General,Daily,False,2026-09-08 01:14:22
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,88.7,Critical,General,Daily,False,2026-09-08 05:24:40
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,100.0,Critical,General,Daily,True,2026-09-08 11:58:09
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,15.1,Low,General,Daily,False,2026-09-08 16:12:34
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,27.6,Medium,General,Daily,False,2026-09-08 20:54:54
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,47.5,Medium,General,Daily,False,2026-09-09 03:35:09
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,68.0,High,General,Daily,False,2026-09-09 09:22:10
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,86.4,Critical,General,Daily,False,2026-09-09 14:37:38
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,100.0,Critical,General,Daily,True,2026-09-09 21:25:53
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,100.0,Critical,General,Daily,True,2026-09-10 02:08:51
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,100.0,Critical,General,Daily,True,2026-09-10 07:02:50
+BIN-004,Hostel Quadrangle A - Bin #04,18.513648,73.85125,100.0,Critical,General,Daily,True,2026-09-10 11:15:54
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,32.4,Medium,General,Alternate Days,False,2026-09-06 19:50:57
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,61.0,High,General,Alternate Days,False,2026-09-07 02:38:57
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,84.4,High,General,Alternate Days,False,2026-09-07 09:17:13
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,100.0,Critical,General,Alternate Days,True,2026-09-07 13:45:36
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,100.0,Critical,General,Alternate Days,True,2026-09-07 19:35:42
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,15.0,Low,General,Alternate Days,False,2026-09-07 23:37:07
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,36.9,Medium,General,Alternate Days,False,2026-09-08 06:26:07
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,49.6,Medium,General,Alternate Days,False,2026-09-08 10:46:54
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,68.6,High,General,Alternate Days,False,2026-09-08 16:26:29
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,92.1,Critical,General,Alternate Days,True,2026-09-08 22:15:21
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,12.3,Low,General,Alternate Days,False,2026-09-09 02:52:00
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,40.3,Medium,General,Alternate Days,False,2026-09-09 09:34:57
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,55.6,Medium,General,Alternate Days,False,2026-09-09 13:51:34
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,69.1,High,General,Alternate Days,False,2026-09-09 18:41:22
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,93.8,Critical,General,Alternate Days,True,2026-09-10 01:00:11
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,11.4,Low,General,Alternate Days,False,2026-09-10 05:47:20
+BIN-005,Hostel Quadrangle B - Bin #05,18.512642,73.853218,22.7,Low,General,Alternate Days,False,2026-09-10 09:49:04
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,65.2,High,Hazardous,Alternate Days,False,2026-09-06 20:50:48
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,82.5,High,Hazardous,Alternate Days,False,2026-09-07 02:35:39
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,96.5,Critical,Hazardous,Alternate Days,True,2026-09-07 06:58:35
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,100.0,Critical,Hazardous,Alternate Days,True,2026-09-07 13:21:53
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,16.7,Low,Hazardous,Alternate Days,False,2026-09-07 17:59:42
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,39.5,Medium,Hazardous,Alternate Days,False,2026-09-08 00:38:51
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,57.2,Medium,Hazardous,Alternate Days,False,2026-09-08 06:30:34
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,84.6,High,Hazardous,Alternate Days,False,2026-09-08 13:17:57
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,100.0,Critical,Hazardous,Alternate Days,True,2026-09-08 20:13:40
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,19.0,Low,Hazardous,Alternate Days,False,2026-09-09 00:18:07
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,45.0,Medium,Hazardous,Alternate Days,False,2026-09-09 06:42:31
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,65.7,High,Hazardous,Alternate Days,False,2026-09-09 13:08:28
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,84.8,High,Hazardous,Alternate Days,False,2026-09-09 19:30:11
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,17.2,Low,Hazardous,Alternate Days,False,2026-09-10 02:07:11
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,34.7,Medium,Hazardous,Alternate Days,False,2026-09-10 07:30:02
+BIN-006,Science & Research Labs - Bin #06,18.524472,73.862253,54.9,Medium,Hazardous,Alternate Days,False,2026-09-10 13:53:12
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,44.6,Medium,Recyclable,Daily,False,2026-09-06 20:11:41
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,70.8,High,Recyclable,Daily,False,2026-09-07 03:05:43
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,94.2,Critical,Recyclable,Daily,True,2026-09-07 09:01:11
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,100.0,Critical,Recyclable,Daily,True,2026-09-07 15:57:47
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,19.4,Low,Recyclable,Daily,False,2026-09-07 20:18:33
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,35.7,Medium,Recyclable,Daily,False,2026-09-08 01:06:20
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,59.5,Medium,Recyclable,Daily,False,2026-09-08 06:24:33
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,80.8,High,Recyclable,Daily,False,2026-09-08 11:21:01
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,8.8,Low,Recyclable,Daily,False,2026-09-08 16:53:04
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,29.4,Medium,Recyclable,Daily,False,2026-09-08 23:00:39
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,57.5,Medium,Recyclable,Daily,False,2026-09-09 05:47:16
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,84.9,High,Recyclable,Daily,False,2026-09-09 11:56:45
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,15.0,Low,Recyclable,Daily,False,2026-09-09 17:57:28
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,33.8,Medium,Recyclable,Daily,False,2026-09-09 22:56:54
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,62.6,High,Recyclable,Daily,False,2026-09-10 05:29:33
+BIN-007,Sports Arena & Gym - Bin #07,18.516895,73.86291,81.0,High,Recyclable,Daily,False,2026-09-10 10:23:36
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,35.9,Medium,General,Daily,False,2026-09-06 20:05:48
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,52.9,Medium,General,Daily,False,2026-09-07 01:21:29
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,71.5,High,General,Daily,False,2026-09-07 07:23:24
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,84.1,High,General,Daily,False,2026-09-07 13:14:12
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,93.6,Critical,General,Daily,True,2026-09-07 18:52:49
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,14.8,Low,General,Daily,False,2026-09-07 23:44:28
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,27.7,Medium,General,Daily,False,2026-09-08 05:08:10
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,39.0,Medium,General,Daily,False,2026-09-08 09:46:38
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,58.2,Medium,General,Daily,False,2026-09-08 16:28:51
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,65.7,High,General,Daily,False,2026-09-08 20:59:23
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,80.7,High,General,Daily,False,2026-09-09 02:32:10
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,96.0,Critical,General,Daily,True,2026-09-09 07:32:30
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,5.4,Low,General,Daily,False,2026-09-09 13:33:37
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,17.0,Low,General,Daily,False,2026-09-09 18:17:41
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,29.3,Medium,General,Daily,False,2026-09-10 00:50:38
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,43.4,Medium,General,Daily,False,2026-09-10 06:05:14
+BIN-008,Admin & Admissions Wing - Bin #08,18.521717,73.854444,56.7,Medium,General,Daily,False,2026-09-10 10:40:14
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,39.7,Medium,Organic,Daily,False,2026-09-06 21:10:41
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,64.9,High,Organic,Daily,False,2026-09-07 03:25:51
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,80.2,High,Organic,Daily,False,2026-09-07 07:45:02
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,5.8,Low,Organic,Daily,False,2026-09-07 12:16:42
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,26.3,Medium,Organic,Daily,False,2026-09-07 17:01:33
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,48.7,Medium,Organic,Daily,False,2026-09-07 22:23:43
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,75.1,High,Organic,Daily,False,2026-09-08 04:23:53
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,100.0,Critical,Organic,Daily,True,2026-09-08 10:11:04
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,17.5,Low,Organic,Daily,False,2026-09-08 16:01:20
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,41.7,Medium,Organic,Daily,False,2026-09-08 21:39:57
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,64.2,High,Organic,Daily,False,2026-09-09 03:53:49
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,79.5,High,Organic,Daily,False,2026-09-09 08:40:28
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,14.4,Low,Organic,Daily,False,2026-09-09 14:35:15
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,28.3,Medium,Organic,Daily,False,2026-09-09 19:24:40
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,44.1,Medium,Organic,Daily,False,2026-09-10 00:16:06
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,62.7,High,Organic,Daily,False,2026-09-10 05:13:39
+BIN-009,Campus Food Court - Bin #09,18.518132,73.858439,76.5,High,Organic,Daily,False,2026-09-10 09:38:34
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,50.6,Medium,Recyclable,Daily,False,2026-09-06 19:24:09
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,70.1,High,Recyclable,Daily,False,2026-09-07 01:01:49
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,86.1,Critical,Recyclable,Daily,False,2026-09-07 05:39:03
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,100.0,Critical,Recyclable,Daily,True,2026-09-07 11:24:11
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,10.3,Low,Recyclable,Daily,False,2026-09-07 17:41:59
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,35.9,Medium,Recyclable,Daily,False,2026-09-07 23:57:37
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,59.8,Medium,Recyclable,Daily,False,2026-09-08 06:49:14
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,82.6,High,Recyclable,Daily,False,2026-09-08 13:03:47
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,11.5,Low,Recyclable,Daily,False,2026-09-08 18:52:22
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,24.9,Low,Recyclable,Daily,False,2026-09-08 22:57:36
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,45.7,Medium,Recyclable,Daily,False,2026-09-09 04:59:51
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,61.7,High,Recyclable,Daily,False,2026-09-09 09:29:33
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,78.7,High,Recyclable,Daily,False,2026-09-09 13:52:31
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,92.6,Critical,Recyclable,Daily,True,2026-09-09 17:57:23
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,7.0,Low,Recyclable,Daily,False,2026-09-09 23:38:58
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,22.4,Low,Recyclable,Daily,False,2026-09-10 05:02:04
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,38.3,Medium,Recyclable,Daily,False,2026-09-10 10:10:19
+BIN-010,Library & Study Center - Bin #10,18.521755,73.861256,58.6,Medium,Recyclable,Daily,False,2026-09-10 15:09:09
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,57.5,Medium,Hazardous,Bi-Weekly,False,2026-09-06 21:42:20
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,67.9,High,Hazardous,Bi-Weekly,False,2026-09-07 01:57:05
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,91.7,Critical,Hazardous,Bi-Weekly,True,2026-09-07 07:34:10
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,100.0,Critical,Hazardous,Bi-Weekly,True,2026-09-07 12:37:10
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,100.0,Critical,Hazardous,Bi-Weekly,True,2026-09-07 18:34:29
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,6.9,Low,Hazardous,Bi-Weekly,False,2026-09-07 23:10:22
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,28.0,Medium,Hazardous,Bi-Weekly,False,2026-09-08 05:10:52
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,45.9,Medium,Hazardous,Bi-Weekly,False,2026-09-08 09:50:06
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,64.4,High,Hazardous,Bi-Weekly,False,2026-09-08 16:08:09
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,86.6,Critical,Hazardous,Bi-Weekly,True,2026-09-08 21:57:27
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,5.4,Low,Hazardous,Bi-Weekly,False,2026-09-09 04:24:55
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,24.0,Low,Hazardous,Bi-Weekly,False,2026-09-09 09:21:05
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,46.5,Medium,Hazardous,Bi-Weekly,False,2026-09-09 16:13:33
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,63.7,High,Hazardous,Bi-Weekly,False,2026-09-09 22:22:15
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,85.6,Critical,Hazardous,Bi-Weekly,True,2026-09-10 04:26:34
+BIN-011,Mechanical Workshop - Bin #11,18.526891,73.851068,6.8,Low,Hazardous,Bi-Weekly,False,2026-09-10 10:45:36
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,55.4,Medium,General,Daily,False,2026-09-06 20:15:05
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,73.2,High,General,Daily,False,2026-09-07 01:21:47
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,93.8,Critical,General,Daily,True,2026-09-07 06:23:13
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,100.0,Critical,General,Daily,True,2026-09-07 12:51:14
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,100.0,Critical,General,Daily,True,2026-09-07 18:45:38
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,100.0,Critical,General,Daily,True,2026-09-08 00:04:01
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,12.3,Low,General,Daily,False,2026-09-08 04:52:38
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,32.8,Medium,General,Daily,False,2026-09-08 10:11:02
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,52.7,Medium,General,Daily,False,2026-09-08 14:59:21
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,71.4,High,General,Daily,False,2026-09-08 21:28:53
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,92.1,Critical,General,Daily,True,2026-09-09 04:07:35
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,5.4,Low,General,Daily,False,2026-09-09 09:31:13
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,25.2,Medium,General,Daily,False,2026-09-09 16:04:24
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,44.1,Medium,General,Daily,False,2026-09-09 20:42:35
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,65.0,High,General,Daily,False,2026-09-10 01:43:50
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,84.1,High,General,Daily,False,2026-09-10 07:50:03
+BIN-012,North Gate Entry - Bin #12,18.529157,73.857506,15.8,Low,General,Daily,False,2026-09-10 11:51:53
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,64.8,High,General,Daily,False,2026-09-06 21:16:54
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,90.7,Critical,General,Daily,True,2026-09-07 02:45:15
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,100.0,Critical,General,Daily,True,2026-09-07 07:02:00
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,13.0,Low,General,Daily,False,2026-09-07 11:57:07
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,37.6,Medium,General,Daily,False,2026-09-07 17:13:42
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,60.7,High,General,Daily,False,2026-09-07 22:13:15
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,78.9,High,General,Daily,False,2026-09-08 03:02:01
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,94.8,Critical,General,Daily,True,2026-09-08 07:23:44
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,100.0,Critical,General,Daily,True,2026-09-08 11:45:15
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,15.9,Low,General,Daily,False,2026-09-08 16:18:35
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,45.4,Medium,General,Daily,False,2026-09-08 23:14:22
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,62.4,High,General,Daily,False,2026-09-09 04:05:18
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,79.5,High,General,Daily,False,2026-09-09 08:40:15
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,94.5,Critical,General,Daily,True,2026-09-09 13:12:33
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,100.0,Critical,General,Daily,True,2026-09-09 18:48:41
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,18.0,Low,General,Daily,False,2026-09-10 00:28:18
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,44.6,Medium,General,Daily,False,2026-09-10 05:56:39
+BIN-013,South Gate & Parking - Bin #13,18.512927,73.85889,68.6,High,General,Daily,False,2026-09-10 11:39:59
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,33.8,Medium,Recyclable,Alternate Days,False,2026-09-06 19:21:50
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,48.7,Medium,Recyclable,Alternate Days,False,2026-09-07 00:47:50
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,56.3,Medium,Recyclable,Alternate Days,False,2026-09-07 05:59:57
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,65.3,High,Recyclable,Alternate Days,False,2026-09-07 11:53:15
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,75.7,High,Recyclable,Alternate Days,False,2026-09-07 16:20:07
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,91.1,Critical,Recyclable,Alternate Days,True,2026-09-07 21:14:48
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,16.9,Low,Recyclable,Alternate Days,False,2026-09-08 01:36:07
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,27.5,Medium,Recyclable,Alternate Days,False,2026-09-08 06:16:45
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,38.8,Medium,Recyclable,Alternate Days,False,2026-09-08 11:37:50
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,57.6,Medium,Recyclable,Alternate Days,False,2026-09-08 18:12:40
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,69.6,High,Recyclable,Alternate Days,False,2026-09-08 23:07:38
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,84.6,High,Recyclable,Alternate Days,False,2026-09-09 04:57:22
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,14.9,Low,Recyclable,Alternate Days,False,2026-09-09 11:47:56
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,21.9,Low,Recyclable,Alternate Days,False,2026-09-09 16:16:12
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,26.9,Medium,Recyclable,Alternate Days,False,2026-09-09 20:29:43
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,39.5,Medium,Recyclable,Alternate Days,False,2026-09-10 01:50:49
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,47.9,Medium,Recyclable,Alternate Days,False,2026-09-10 06:43:14
+BIN-014,Auditorium Plaza - Bin #14,18.519524,73.853027,63.2,High,Recyclable,Alternate Days,False,2026-09-10 12:50:29
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,53.6,Medium,Organic,Daily,False,2026-09-06 21:58:54
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,68.5,High,Organic,Daily,False,2026-09-07 03:51:24
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,83.3,High,Organic,Daily,False,2026-09-07 10:39:28
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,97.5,Critical,Organic,Daily,True,2026-09-07 16:17:29
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,9.6,Low,Organic,Daily,False,2026-09-07 22:46:17
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,24.5,Low,Organic,Daily,False,2026-09-08 05:01:05
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,32.3,Medium,Organic,Daily,False,2026-09-08 09:53:02
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,47.9,Medium,Organic,Daily,False,2026-09-08 15:57:00
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,63.5,High,Organic,Daily,False,2026-09-08 22:46:41
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,72.2,High,Organic,Daily,False,2026-09-09 04:15:34
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,81.2,High,Organic,Daily,False,2026-09-09 08:22:44
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,90.4,Critical,Organic,Daily,True,2026-09-09 13:20:46
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,100.0,Critical,Organic,Daily,True,2026-09-09 17:37:12
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,100.0,Critical,Organic,Daily,True,2026-09-09 23:20:44
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,16.3,Low,Organic,Daily,False,2026-09-10 05:21:45
+BIN-015,Faculty Quarters - Bin #15,18.522965,73.848363,30.1,Medium,Organic,Daily,False,2026-09-10 10:46:26
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,37.7,Medium,General,Daily,False,2026-09-06 20:57:57
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,49.2,Medium,General,Daily,False,2026-09-07 02:26:27
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,61.8,High,General,Daily,False,2026-09-07 07:29:05
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,81.8,High,General,Daily,False,2026-09-07 13:29:43
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,19.2,Low,General,Daily,False,2026-09-07 18:29:05
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,37.5,Medium,General,Daily,False,2026-09-08 00:55:31
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,50.8,Medium,General,Daily,False,2026-09-08 06:17:23
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,68.9,High,General,Daily,False,2026-09-08 11:15:35
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,83.6,High,General,Daily,False,2026-09-08 16:28:20
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,11.2,Low,General,Daily,False,2026-09-08 23:26:12
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,22.8,Low,General,Daily,False,2026-09-09 03:59:57
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,41.3,Medium,General,Daily,False,2026-09-09 10:16:07
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,56.0,Medium,General,Daily,False,2026-09-09 16:32:55
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,75.6,High,General,Daily,False,2026-09-09 22:11:46
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,92.2,Critical,General,Daily,True,2026-09-10 03:30:38
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,8.6,Low,General,Daily,False,2026-09-10 07:52:30
+BIN-016,Main Academic Block - Bin #16,18.522972,73.858062,21.6,Low,General,Daily,False,2026-09-10 12:21:00
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,42.4,Medium,Recyclable,Daily,False,2026-09-06 22:11:12
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,55.2,Medium,Recyclable,Daily,False,2026-09-07 03:34:15
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,74.7,High,Recyclable,Daily,False,2026-09-07 10:04:02
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,93.3,Critical,Recyclable,Daily,True,2026-09-07 16:13:02
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,100.0,Critical,Recyclable,Daily,True,2026-09-07 21:02:15
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,18.8,Low,Recyclable,Daily,False,2026-09-08 01:46:07
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,38.9,Medium,Recyclable,Daily,False,2026-09-08 07:17:36
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,56.7,Medium,Recyclable,Daily,False,2026-09-08 13:53:08
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,75.0,High,Recyclable,Daily,False,2026-09-08 20:15:20
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,95.5,Critical,Recyclable,Daily,True,2026-09-09 03:03:29
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,20.0,Low,Recyclable,Daily,False,2026-09-09 07:54:24
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,33.3,Medium,Recyclable,Daily,False,2026-09-09 13:22:32
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,48.9,Medium,Recyclable,Daily,False,2026-09-09 18:59:29
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,66.3,High,Recyclable,Daily,False,2026-09-10 00:38:50
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,80.9,High,Recyclable,Daily,False,2026-09-10 06:00:47
+BIN-017,Engineering Complex - Bin #17,18.525617,73.853484,8.5,Low,Recyclable,Daily,False,2026-09-10 10:34:45
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,62.0,High,Organic,Daily,False,2026-09-06 21:26:38
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,100.0,Critical,Organic,Daily,True,2026-09-07 03:52:41
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,5.6,Low,Organic,Daily,False,2026-09-07 10:20:25
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,45.1,Medium,Organic,Daily,False,2026-09-07 15:50:50
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,94.9,Critical,Organic,Daily,True,2026-09-07 22:27:23
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,15.8,Low,Organic,Daily,False,2026-09-08 03:46:38
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,54.1,Medium,Organic,Daily,False,2026-09-08 09:00:26
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,85.3,Critical,Organic,Daily,False,2026-09-08 13:28:13
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,17.8,Low,Organic,Daily,False,2026-09-08 18:29:10
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,67.1,High,Organic,Daily,False,2026-09-09 01:02:35
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,100.0,Critical,Organic,Daily,True,2026-09-09 06:10:59
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,6.0,Low,Organic,Daily,False,2026-09-09 12:27:40
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,51.3,Medium,Organic,Daily,False,2026-09-09 18:21:17
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,6.5,Low,Organic,Daily,False,2026-09-10 01:20:49
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,51.3,Medium,Organic,Daily,False,2026-09-10 07:14:54
+BIN-018,Central Cafeteria - Bin #18,18.517935,73.860327,90.6,Critical,Organic,Daily,True,2026-09-10 12:34:45
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,30.5,Medium,General,Daily,False,2026-09-06 21:35:54
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,40.3,Medium,General,Daily,False,2026-09-07 02:43:22
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,55.0,Medium,General,Daily,False,2026-09-07 08:18:59
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,68.0,High,General,Daily,False,2026-09-07 14:41:38
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,82.1,High,General,Daily,False,2026-09-07 18:55:51
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,94.5,Critical,General,Daily,True,2026-09-08 00:47:23
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,8.8,Low,General,Daily,False,2026-09-08 07:31:42
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,16.5,Low,General,Daily,False,2026-09-08 12:17:40
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,36.1,Medium,General,Daily,False,2026-09-08 18:42:30
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,48.2,Medium,General,Daily,False,2026-09-09 00:44:28
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,60.3,High,General,Daily,False,2026-09-09 06:03:58
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,76.0,High,General,Daily,False,2026-09-09 11:49:44
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,87.0,Critical,General,Daily,False,2026-09-09 17:06:07
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,8.6,Low,General,Daily,False,2026-09-09 21:41:58
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,23.6,Low,General,Daily,False,2026-09-10 03:24:55
+BIN-019,Hostel Quadrangle A - Bin #19,18.514637,73.851875,39.2,Medium,General,Daily,False,2026-09-10 10:23:36
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,50.1,Medium,General,Alternate Days,False,2026-09-06 20:02:00
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,70.6,High,General,Alternate Days,False,2026-09-07 02:05:26
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,84.3,High,General,Alternate Days,False,2026-09-07 06:14:16
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,17.0,Low,General,Alternate Days,False,2026-09-07 11:43:41
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,33.3,Medium,General,Alternate Days,False,2026-09-07 17:32:57
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,52.3,Medium,General,Alternate Days,False,2026-09-07 23:27:32
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,72.6,High,General,Alternate Days,False,2026-09-08 05:29:32
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,93.8,Critical,General,Alternate Days,True,2026-09-08 11:28:11
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,9.6,Low,General,Alternate Days,False,2026-09-08 17:21:17
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,26.5,Medium,General,Alternate Days,False,2026-09-08 22:40:37
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,41.6,Medium,General,Alternate Days,False,2026-09-09 04:52:27
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,58.8,Medium,General,Alternate Days,False,2026-09-09 09:45:34
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,69.3,High,General,Alternate Days,False,2026-09-09 14:17:11
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,90.6,Critical,General,Alternate Days,True,2026-09-09 19:54:17
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,100.0,Critical,General,Alternate Days,True,2026-09-10 01:29:50
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,17.1,Low,General,Alternate Days,False,2026-09-10 06:16:05
+BIN-020,Hostel Quadrangle B - Bin #20,18.513767,73.853161,34.5,Medium,General,Alternate Days,False,2026-09-10 12:30:28
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,63.6,High,Hazardous,Alternate Days,False,2026-09-06 19:37:55
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,88.4,Critical,Hazardous,Alternate Days,False,2026-09-07 02:12:45
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,16.9,Low,Hazardous,Alternate Days,False,2026-09-07 09:06:51
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,31.4,Medium,Hazardous,Alternate Days,False,2026-09-07 13:09:22
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,51.7,Medium,Hazardous,Alternate Days,False,2026-09-07 18:31:13
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,73.3,High,Hazardous,Alternate Days,False,2026-09-08 00:32:15
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,8.5,Low,Hazardous,Alternate Days,False,2026-09-08 07:00:17
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,26.3,Medium,Hazardous,Alternate Days,False,2026-09-08 11:04:47
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,49.8,Medium,Hazardous,Alternate Days,False,2026-09-08 16:45:50
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,62.2,High,Hazardous,Alternate Days,False,2026-09-08 21:25:41
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,88.3,Critical,Hazardous,Alternate Days,False,2026-09-09 03:53:59
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,100.0,Critical,Hazardous,Alternate Days,True,2026-09-09 09:07:28
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,18.3,Low,Hazardous,Alternate Days,False,2026-09-09 14:02:15
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,33.3,Medium,Hazardous,Alternate Days,False,2026-09-09 18:26:41
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,56.4,Medium,Hazardous,Alternate Days,False,2026-09-10 00:27:22
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,79.4,High,Hazardous,Alternate Days,False,2026-09-10 07:17:38
+BIN-021,Science & Research Labs - Bin #21,18.525183,73.862924,6.5,Low,Hazardous,Alternate Days,False,2026-09-10 13:31:15
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,50.5,Medium,Recyclable,Daily,False,2026-09-06 22:03:52
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,70.7,High,Recyclable,Daily,False,2026-09-07 03:10:33
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,15.3,Low,Recyclable,Daily,False,2026-09-07 10:01:39
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,42.3,Medium,Recyclable,Daily,False,2026-09-07 15:39:40
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,61.9,High,Recyclable,Daily,False,2026-09-07 20:44:13
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,77.0,High,Recyclable,Daily,False,2026-09-08 01:18:23
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,100.0,Critical,Recyclable,Daily,True,2026-09-08 07:51:02
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,16.8,Low,Recyclable,Daily,False,2026-09-08 13:46:32
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,32.6,Medium,Recyclable,Daily,False,2026-09-08 18:30:23
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,51.6,Medium,Recyclable,Daily,False,2026-09-09 00:12:00
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,74.3,High,Recyclable,Daily,False,2026-09-09 06:29:44
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,7.2,Low,Recyclable,Daily,False,2026-09-09 11:08:36
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,29.6,Medium,Recyclable,Daily,False,2026-09-09 17:50:42
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,52.9,Medium,Recyclable,Daily,False,2026-09-10 00:25:13
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,68.4,High,Recyclable,Daily,False,2026-09-10 04:48:37
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,88.2,Critical,Recyclable,Daily,True,2026-09-10 09:20:01
+BIN-022,Sports Arena & Gym - Bin #22,18.516695,73.864249,9.9,Low,Recyclable,Daily,False,2026-09-10 13:22:42
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,34.7,Medium,General,Daily,False,2026-09-06 21:26:06
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,52.3,Medium,General,Daily,False,2026-09-07 03:40:19
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,70.6,High,General,Daily,False,2026-09-07 10:00:22
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,83.2,High,General,Daily,False,2026-09-07 14:19:59
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,98.7,Critical,General,Daily,True,2026-09-07 21:10:10
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,19.5,Low,General,Daily,False,2026-09-08 03:46:13
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,31.4,Medium,General,Daily,False,2026-09-08 07:57:10
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,48.1,Medium,General,Daily,False,2026-09-08 13:09:28
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,67.6,High,General,Daily,False,2026-09-08 18:37:43
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,76.1,High,General,Daily,False,2026-09-08 22:50:56
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,88.9,Critical,General,Daily,True,2026-09-09 04:40:26
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,19.9,Low,General,Daily,False,2026-09-09 10:34:23
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,35.6,Medium,General,Daily,False,2026-09-09 16:09:53
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,48.7,Medium,General,Daily,False,2026-09-09 21:58:52
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,69.4,High,General,Daily,False,2026-09-10 04:05:11
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,88.9,Critical,General,Daily,False,2026-09-10 10:02:21
+BIN-023,Admin & Admissions Wing - Bin #23,18.520966,73.853951,10.1,Low,General,Daily,False,2026-09-10 14:41:03
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,57.2,Medium,Organic,Daily,False,2026-09-06 19:29:42
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,18.8,Low,Organic,Daily,False,2026-09-07 01:29:25
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,51.6,Medium,Organic,Daily,False,2026-09-07 05:41:30
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,78.3,High,Organic,Daily,False,2026-09-07 09:58:17
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,13.8,Low,Organic,Daily,False,2026-09-07 16:11:16
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,52.4,Medium,Organic,Daily,False,2026-09-07 21:52:21
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,82.0,High,Organic,Daily,False,2026-09-08 02:14:22
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,100.0,Critical,Organic,Daily,True,2026-09-08 08:14:07
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,10.3,Low,Organic,Daily,False,2026-09-08 14:23:55
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,48.2,Medium,Organic,Daily,False,2026-09-08 20:07:56
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,87.8,Critical,Organic,Daily,True,2026-09-09 02:06:09
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,100.0,Critical,Organic,Daily,True,2026-09-09 08:38:19
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,100.0,Critical,Organic,Daily,True,2026-09-09 14:21:39
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,14.6,Low,Organic,Daily,False,2026-09-09 21:17:04
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,47.4,Medium,Organic,Daily,False,2026-09-10 01:21:48
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,91.1,Critical,Organic,Daily,True,2026-09-10 07:51:06
+BIN-024,Campus Food Court - Bin #24,18.517028,73.858238,10.1,Low,Organic,Daily,False,2026-09-10 12:23:35
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,61.4,High,Recyclable,Daily,False,2026-09-06 20:54:32
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,79.2,High,Recyclable,Daily,False,2026-09-07 01:20:04
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,11.3,Low,Recyclable,Daily,False,2026-09-07 05:25:35
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,28.9,Medium,Recyclable,Daily,False,2026-09-07 10:26:57
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,54.3,Medium,Recyclable,Daily,False,2026-09-07 16:36:50
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,71.8,High,Recyclable,Daily,False,2026-09-07 22:19:00
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,84.4,High,Recyclable,Daily,False,2026-09-08 02:28:28
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,14.9,Low,Recyclable,Daily,False,2026-09-08 08:19:41
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,34.8,Medium,Recyclable,Daily,False,2026-09-08 13:47:06
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,55.1,Medium,Recyclable,Daily,False,2026-09-08 18:36:16
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,70.8,High,Recyclable,Daily,False,2026-09-08 22:56:45
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,90.5,Critical,Recyclable,Daily,True,2026-09-09 03:47:44
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,10.9,Low,Recyclable,Daily,False,2026-09-09 09:15:20
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,28.1,Medium,Recyclable,Daily,False,2026-09-09 15:03:13
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,43.8,Medium,Recyclable,Daily,False,2026-09-09 19:57:28
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,58.2,Medium,Recyclable,Daily,False,2026-09-10 00:22:10
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,72.4,High,Recyclable,Daily,False,2026-09-10 05:21:14
+BIN-025,Library & Study Center - Bin #25,18.523002,73.860403,92.7,Critical,Recyclable,Daily,True,2026-09-10 11:35:42
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,45.1,Medium,General,Daily,False,2026-09-06 21:57:12
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,56.2,Medium,General,Daily,False,2026-09-07 02:44:53
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,135.0,Low,General,Daily,False,2026-09-07 22:59:07
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,-20.0,Medium,General,Daily,False,2026-09-08 04:52:03
+BIN-001,Main Academic Block - Bin #01,18.523623,73.85794,,Medium,General,Daily,False,2026-09-08 10:08:03
