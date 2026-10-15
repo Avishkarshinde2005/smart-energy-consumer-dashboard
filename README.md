@@ -1,12 +1,12 @@
 # Smart Waste Management & Collection Optimization System
 
-[![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Avishkarshinde2005/smart-energy-consumer-dashboard&branch=main&mainModule=app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-energy-consumer-dashboard-hcgjux4aznpbvhpfrprcue.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg)](https://streamlit.io/)
 [![OR-Tools](https://img.shields.io/badge/Google-OR--Tools-4285F4.svg)](https://developers.google.com/optimization)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> 🚀 **Deploy & Launch App:** [Click here to 1-Click Launch on Streamlit Cloud](https://share.streamlit.io/deploy?repository=Avishkarshinde2005/smart-energy-consumer-dashboard&branch=main&mainModule=app.py)
+> 🚀 **Live Web Application:** [https://smart-energy-consumer-dashboard-hcgjux4aznpbvhpfrprcue.streamlit.app](https://smart-energy-consumer-dashboard-hcgjux4aznpbvhpfrprcue.streamlit.app) *(Streamlit Community Cloud)*
 
 An end-to-end data-driven municipal and college campus smart waste management platform that transitions traditional fixed-schedule waste collection to dynamic, on-demand, fill-level-based routing. The system ingests sensor/form readings, preprocesses anomalies, ranks urgency using rule-based scoring and machine learning, and generates distance-optimized collection routes using Google OR-Tools and Nearest Neighbor TSP heuristics.
 
